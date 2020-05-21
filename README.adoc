@@ -1,3 +1,5 @@
+image::icon.png[float=right]
+
 = Arduino On Air
 
 This is a macOS statusbar app to enable an On Air light connected to an
