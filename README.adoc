@@ -38,3 +38,6 @@ Result:
 
 [.centered]
 image::toggled-on.png[]
+
+[.centered]
+image::board.jpeg[]
