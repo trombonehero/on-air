@@ -1,0 +1,18 @@
+= Arduino On Air
+
+This is a macOS statusbar app to enable an On Air light connected to an
+Arduino device running https://nanpy.github.io[Nanpy] firmware.
+
+== Setup
+
+Hardware::
+Connect an LED to digital port 4 on the device.
+
+Software::
+```
+$ make
+python setup.py py2app
+running py2app
+[...]
+Done!
+```
