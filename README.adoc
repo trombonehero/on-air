@@ -1,4 +1,4 @@
-image::icon.png[float=right]
+image::icon.png[float=right,width=128]
 
 = Arduino On Air
 
