@@ -20,3 +20,21 @@ Done!
 $ make install
 mv dist/On\ Air.app ~/Applications
 ```
+
+
+== Usage
+
+Run the On Air application:
+
+[.centered]
+image::toggled-off.png[]
+
+Toggle the light on:
+
+[.centered]
+image::toggle.png[]
+
+Result:
+
+[.centered]
+image::toggled-on.png[]
