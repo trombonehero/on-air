@@ -17,4 +17,6 @@ python setup.py py2app
 running py2app
 [...]
 Done!
+$ make install
+mv dist/On\ Air.app ~/Applications
 ```
